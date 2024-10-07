@@ -17,10 +17,7 @@ class _DicescreenState extends State<Dicescreen> {
       "assets/images/d4.png",
       "assets/images/d5.png",
       "assets/images/d6.png",
-      "assets/images/d3.png",
-      "assets/images/d4.png",
-      "assets/images/d5.png",
-      "assets/images/d6.png",
+      
       
    ];
 int? randomnumber;
